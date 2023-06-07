@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Go-1.16+-00ADD8?style=flat&logo=go"alt="Logo" width="600" >
   </a>
 
-  <h2 align="center">Serviço Carteira</h2>
+  <h2 align="center">Serviço Investidor</h2>
 
  
 </div>
